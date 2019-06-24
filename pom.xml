@@ -50,6 +50,8 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		
+		<!--test git control version -->
 
 		<!-- 加入lombok依赖 -->
 		<dependency>
